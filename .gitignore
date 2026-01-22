@@ -1,0 +1,11 @@
+# ignore virtual environment
+doc/
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
